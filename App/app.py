@@ -227,7 +227,7 @@ def main():
         st.subheader("About Us")
         st.markdown("*empowering users to better navigate their emotions and support their own mental health*")
         st.subheader("Our App")
-        st.markdown("📱emotiive.ml app uses machine learning to identify user's emotions and generate psychology-based tasks to help users keep track of and process the emotions they experience throughout the day.")
+        st.markdown("📱The emotiive app uses machine learning to identify the user's emotions and generates psychology-based tasks to help the user keep track of and process the emotions they experience throughout the day.")
         st.subheader("Team Behind emotiive.ml")
         st.markdown \
             ("✨ We're a group of women who are passionate about applying machine learning to the field of mental health and self-care. The team consists of an engineer-in-training, a graduate student, and three undergraduate students.")
