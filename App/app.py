@@ -21,7 +21,7 @@ import speech_recognition as sr
 
 
 # load trained model
-pipe_lr = joblib.load(open("emotion_classifier_pipe_lr_14_June_2022.pkl", "rb"))
+pipe_lr = joblib.load(open("App/emotion_classifier_pipe_lr_14_June_2022.pkl", "rb"))
 
 # the emotion-to-task google sheet to use
 sheet_url = "https://docs.google.com/spreadsheets/d/1hDa4-idBdmN2nVyZn2Oi6TmnYg-A8jFZFh1BXsEnYBA/edit#gid=0"
